@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArgProyectoFinal</string>
+    <string name="hint">Ingrese su texto</string>
+    <string name="btnText">Comparar</string>
+</resources>
